@@ -1,2 +1,3 @@
-# AI-Emotional-Chatbot
-A Generative AI chatbot using DistilBERT and Streamlit that detects emotions
+# AI-Emotional-Chatbot 
+
+AI-Emotional-Chatbot is a Generative AI chatbot built using DistilBERT and Streamlit that can detect emotions from text and respond empathetically. It uses Natural Language Processing (NLP) to understand emotions such as happiness, sadness, anger, and surprise, and generates suitable responses. The project demonstrates how emotion recognition and Generative AI can be combined to build chatbots for virtual assistants, mental health support, and customer care. Developed with Python, Streamlit, Hugging Face Transformers, DistilBERT, and PyTorch, it provides a lightweight and interactive user interface. To run the chatbot, clone this repository using `git clone https://github.com/harinishankar1912/AI-Emotional-Chatbot.git`, install the required dependencies using `pip install -r requirements.txt`, and start the app with `streamlit run app.py`. Author: **Harini Shankar** ( [GitHub Profile](https://github.com/harinishankar1912))
